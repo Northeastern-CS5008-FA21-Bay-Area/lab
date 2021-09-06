@@ -1,2 +1,2 @@
-# RepoTemplates
-homework assignments for CS5008 Fall 2021
+# Lab
+lab for CS5008 Fall 2021
